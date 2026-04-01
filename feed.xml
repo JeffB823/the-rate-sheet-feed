@@ -1,32 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-       xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-       xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-          <title>The Rate Sheet</title>
-          <link>https://JeffB823.github.io/the-rate-sheet-feed</link>
-          <atom:link href="https://JeffB823.github.io/the-rate-sheet-feed/feed.xml" rel="self" type="application/rss+xml"/>
-          <description>Your daily mortgage rate briefing, built for home lending advisors who work the phones. Rates, lock-or-float guidance, market context, and borrower talk tracks — every weekday morning in under 8 minutes.</description>
-          <language>en-us</language>
-          <itunes:image href="https://JeffB823.github.io/the-rate-sheet-feed/cover.jpg"/>
-          <image>
-                  <url>https://JeffB823.github.io/the-rate-sheet-feed/cover.jpg</url>
-                  <title>The Rate Sheet</title>
-                  <link>https://JeffB823.github.io/the-rate-sheet-feed</link>
-          </image>
-          <itunes:author>Jeff Bechtel</itunes:author>
-          <itunes:owner>
-                  <itunes:name>Jeff Bechtel</itunes:name>
-                  <itunes:email>jeffrey.m.bechtel@gmail.com</itunes:email>
-          </itunes:owner>
-          <itunes:category text="Business">
-                  <itunes:category text="Investing"/>
-          </itunes:category>
-          <itunes:category text="News">
-                  <itunes:category text="Business News"/>
-          </itunes:category>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:type>episodic</itunes:type>
-      <!-- EPISODES -->
-    </channel>
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Rate Sheet</title>
+    <link>https://JeffB823.github.io/the-rate-sheet-feed</link>
+    <atom:link href="https://JeffB823.github.io/the-rate-sheet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Your daily mortgage rate briefing, built for home lending advisors who work the phones. Rates, lock-or-float guidance, market context, and borrower talk tracks — every weekday morning in under 8 minutes.</description>
+    <language>en-us</language>
+    <itunes:image href="https://JeffB823.github.io/the-rate-sheet-feed/cover.jpg"/>
+    <image>
+      <url>https://JeffB823.github.io/the-rate-sheet-feed/cover.jpg</url>
+      <title>The Rate Sheet</title>
+      <link>https://JeffB823.github.io/the-rate-sheet-feed</link>
+    </image>
+    <itunes:author>Jeff Bechtel</itunes:author>
+    <itunes:owner>
+      <itunes:name>Jeff Bechtel</itunes:name>
+      <itunes:email>jeffrey.m.bechtel@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="News">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+<!-- EPISODES -->
+    <item>
+      <title>The Rate Sheet — Tuesday, Mar 31, 2026</title>
+      <description>Your Rate Sheet for Tuesday, Mar 31, 2026. Rates, lock-or-float, market context, and borrower talk tracks.</description>
+      <enclosure url="https://JeffB823.github.io/the-rate-sheet-feed/episodes/2026-03-31_rate-sheet.mp3" length="2146752" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 07:30:00 -0400</pubDate>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:episode>20260331</itunes:episode>
+      <guid isPermaLink="false">rate-sheet-2026-03-31</guid>
+    </item>
+  </channel>
 </rss>
