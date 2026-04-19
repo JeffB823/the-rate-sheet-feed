@@ -29,6 +29,16 @@
     <itunes:type>episodic</itunes:type>
 <!-- EPISODES -->
     <item>
+      <title>The Rate Sheet — Sunday, Apr 19, 2026</title>
+      <description>Your Rate Sheet for Sunday, Apr 19, 2026. Rates, lock-or-float, market context, and borrower talk tracks.</description>
+      <enclosure url="https://JeffB823.github.io/the-rate-sheet-feed/episodes/2026-04-19_rate-sheet.mp3" length="15770925" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Apr 2026 07:30:00 -0400</pubDate>
+      <itunes:duration>00:16:25</itunes:duration>
+      <itunes:episode>20260419</itunes:episode>
+      <guid isPermaLink="false">rate-sheet-2026-04-19</guid>
+    </item>
+
+    <item>
       <title>The Rate Sheet — Friday, Apr 17, 2026</title>
       <description>Your Rate Sheet for Friday, Apr 17, 2026. Rates, lock-or-float, market context, and borrower talk tracks.</description>
       <enclosure url="https://JeffB823.github.io/the-rate-sheet-feed/episodes/2026-04-17_rate-sheet.mp3" length="12711213" type="audio/mpeg"/>
