@@ -1,0 +1,31 @@
+# The Rate Sheet Script for Monday, August 24, 2026
+
+Here is the market move this morning: the broader bond market is trying to stabilize after last week's rate spike, and the 10-year Treasury has edged a little lower to start Monday, but mortgage-backed securities are still a touch weaker. In plain English, that means the headline bond market looks a little better, but mortgage pricing is not improving much yet. The best read for loan officers this morning is that rates feel sticky-high, not meaningfully better.
+
+Why that matters is simple: when Treasuries improve but MBS do not improve with them, lenders usually stay cautious. So this is not the kind of morning where you lead with, "Good news, rates dropped." It is the kind of morning where you lead with, "The market is trying to find its footing, but pricing still feels tight."
+
+What this means in plain English for customers is that financing costs are still elevated, even if the panic has cooled a little. The payment shock did not disappear over the weekend. Buyers are still sensitive, refinancers are still selective, and every eighth of a point still changes the conversation.
+
+What to say to customers today is this: "The bond market is a little calmer this morning, but mortgage pricing has not fully followed yet. So if you like the home and the payment works, this is still a market where certainty has real value."
+
+My lock-or-float guidance today is straightforward. If the borrower is inside 15 days, has a tight DTI, or is already stretching on payment, locking still makes more sense than hoping for a quick rally. If the borrower is farther out and structurally strong, a cautious float can be defended, but only with clear expectations that this week's data and Jackson Hole headlines can move the market fast. This is not a casual float environment.
+
+The key events and times this week matter more than the Monday open. On Tuesday, August 25, the Conference Board consumer confidence report hits at 10:00 a.m. Eastern, and new home sales for July also hit at 10:00 a.m. Eastern. On Wednesday, August 26, personal income, PCE inflation, and the second estimate of second-quarter GDP all land at 8:30 a.m. Eastern. Then Jackson Hole runs August 27 through August 29, with Chair Kevin Warsh's communication likely to be the market-moving headline risk the team needs to respect.
+
+Here is the bigger market and housing context. Freddie Mac's latest weekly survey put the average 30-year fixed at 6.65%, down a touch from the prior week, but Mortgage News Daily's daily gauge was still around 6.77% on Friday, August 21, and their MBS tracker says today's pricing tone is slightly worse. Housing activity is still soft. NAR said July existing-home sales slipped 1.7% to a 4.06 million annual pace, and pending sales fell 2.3% in July to their lowest level since January 2026. That tells you affordability is still slowing decision-making even while inventory pressure is not fully breaking.
+
+The competitive context for online quote objections is important today. When a borrower says, "I saw a lower rate online," do not argue with the screenshot. Reframe it. Say: "You probably did see a lower headline rate. The real question is what that rate costs, whether it assumes points, and whether it survives credit, escrow, condo, or lock-period reality." In this market, rate shoppers are not wrong to shop. They are wrong when they compare an ad to a fully underwritten quote.
+
+The pipeline play today has to include the refi angle. MBA's latest weekly data showed total applications slipped, but the refinance share still rose to 41.9% from 40.7%. That is the tell. Even in a high-rate market, borrowers are still responding when there is a targeted reason to act. Do not wait for a perfect refi wave. Go find cash-out debt consolidation files, FHA-to-conventional cleanup opportunities, borrowers with temporary buydowns rolling off later this year, and clients whose value growth may now eliminate mortgage insurance or improve pricing buckets.
+
+One rookie mistake to avoid is speaking in averages as if they are personal quotes. Saying, "Rates are around six and three quarters," without immediately translating that into payment and qualification impact makes you sound like a headline reader, not an advisor. The borrower cares less about the market average than whether they still qualify, whether the cash to close changed, and whether waiting helps or hurts.
+
+One advanced angle for experienced originators is to separate rate direction from spread behavior in your customer conversations. If Treasuries improve but mortgage rates do not, explain that mortgages price off both the bond market and mortgage-specific risk. That gives veteran LOs sharper language and keeps you from overpromising on every Treasury rally.
+
+Borrower talk tracks for today should sound like this. "I do not need the perfect market to help you make a good decision." "If the payment works now, we can solve for future rate improvement later." "If the payment does not work now, then our job is not to force it, it is to restructure the plan and keep your options open." That is a stronger posture than trying to win the call by predicting tomorrow's rate sheet.
+
+One concrete borrower example: if you are speaking with a first-time buyer looking at a $425,000 purchase and they are nervous because they saw rates move higher last week, do not start with the rate. Start with control. "Here are the three things we can control today: your payment target, your cash to close, and whether we want to buy time or buy certainty with a lock." That keeps the conversation grounded and moves the borrower out of panic mode.
+
+One thing to watch today is whether the bond market's early stability actually turns into better mortgage pricing by midday or whether MBS stay stubbornly weak. If lenders do not improve despite a calmer Treasury market, that is the market telling you fear and spread pressure are still in charge.
+
+The coaching close for the team is short. Do not sell optimism today. Sell clarity. The LO who wins this week will be the one who can explain a messy market in one clean minute and then turn that explanation into a confident next step for the borrower.
